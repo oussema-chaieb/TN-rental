@@ -1,5 +1,5 @@
 Config = {}
-
+Config.Fuel = 'cdn-fuel'
 Config.Rent = {
     Category = {
         {name = "Compacts"},
@@ -244,5 +244,3 @@ Config.Locations = {
         ['blipcolor'] = 38
     },
 }
-
-Config.Fuel = 'cdn-fuel'
